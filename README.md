@@ -53,4 +53,4 @@ Give it a ⭐ and feel free to fork or contribute!
 
 
 Acknowlgement
-special thanks to @Ayushi0214 for guidance and mentorship throughout this project.
+special thanks to @Ayushi0214  for guidance and mentorship throughout this project.
